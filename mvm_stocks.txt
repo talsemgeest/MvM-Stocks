@@ -1,0 +1,21 @@
+Stocks: Money Furnace, KB-808, Taunt Processor, Emotion Detector, Bomb Stabilizer, Humor Supression Pump, Currency Digester, Brainstorm Bulb
+37,45,35,25,13,8,5,5
+
+Money Furnace, KB-808, Taunt Processor, Emotion Detector, Bomb Stabilizer, Humor Supression Pump, Currency Digester, Brainstorm Bulb, *NAME*, *PRICE*
+0,17,7,0,1,4,0,0,Enforcer,2.26
+7,4,13,0,0,5,0,0,Bonesaw,2.59
+13,8,3,4,1,0,0,0,Boston Basher,2.22
+0,0,24,2,0,3,0,0,Boston Basher,2.22
+8,12,4,0,3,2,0,0,Candy Cane,2.22
+7,13,4,2,1,2,0,0,Candy Cane,2.22
+16,8,0,1,4,0,0,0,Eureka Effect,2.26
+12,8,4,0,4,1,0,0,Fan O'War,2.1
+0,12,12,1,2,2,0,0,Neon Annihilator,2.35
+4,4,16,2,2,1,0,0,Pain Train,2.26
+5,19,0,1,0,4,0,0,Postal Pummeler,2.38
+8,16,0,1,4,0,0,0,Postal Pummeler,2.38
+7,12,5,2,3,0,0,0,Sharpened Volcano Fragment,2.50
+15,9,0,1,0,4,0,0,Southern Hospitality,2.30
+0,16,8,0,5,0,0,0,Vita-Saw,2.39
+5,16,3,3,2,0,0,0,Vita-Saw,2.39
+9,15,0,0,3,2,0,0,Winger,2.60
